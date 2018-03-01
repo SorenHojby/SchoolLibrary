@@ -1,0 +1,18 @@
+C:\Users\Michelle\Desktop\5. semester\Web Programming\SchoolLibary\SchoolLibary\bin\Debug\netstandard2.0\SchoolLibary.deps.json
+C:\Users\Michelle\Desktop\5. semester\Web Programming\SchoolLibary\SchoolLibary\bin\Debug\netstandard2.0\SchoolLibary.dll
+C:\Users\Michelle\Desktop\5. semester\Web Programming\SchoolLibary\SchoolLibary\bin\Debug\netstandard2.0\SchoolLibary.pdb
+C:\Users\Michelle\Desktop\5. semester\Web Programming\SchoolLibary\SchoolLibary\obj\Debug\netstandard2.0\SchoolLibary.csprojResolveAssemblyReference.cache
+C:\Users\Michelle\Desktop\5. semester\Web Programming\SchoolLibary\SchoolLibary\obj\Debug\netstandard2.0\SchoolLibary.csproj.CoreCompileInputs.cache
+C:\Users\Michelle\Desktop\5. semester\Web Programming\SchoolLibary\SchoolLibary\obj\Debug\netstandard2.0\SchoolLibary.AssemblyInfoInputs.cache
+C:\Users\Michelle\Desktop\5. semester\Web Programming\SchoolLibary\SchoolLibary\obj\Debug\netstandard2.0\SchoolLibary.AssemblyInfo.cs
+C:\Users\Michelle\Desktop\5. semester\Web Programming\SchoolLibary\SchoolLibary\obj\Debug\netstandard2.0\SchoolLibary.dll
+C:\Users\Michelle\Desktop\5. semester\Web Programming\SchoolLibary\SchoolLibary\obj\Debug\netstandard2.0\SchoolLibary.pdb
+C:\Users\Søren Højby\Google Drive\Skole\webdev\work\Web development\SchoolLibary\SchoolLibary\obj\Debug\netstandard2.0\SchoolLibary.csprojResolveAssemblyReference.cache
+C:\Users\Søren Højby\Google Drive\Skole\webdev\work\Web development\SchoolLibary\SchoolLibary\obj\Debug\netstandard2.0\SchoolLibary.csproj.CoreCompileInputs.cache
+C:\Users\Søren Højby\Google Drive\Skole\webdev\work\Web development\SchoolLibary\SchoolLibary\obj\Debug\netstandard2.0\SchoolLibary.AssemblyInfoInputs.cache
+C:\Users\Søren Højby\Google Drive\Skole\webdev\work\Web development\SchoolLibary\SchoolLibary\obj\Debug\netstandard2.0\SchoolLibary.AssemblyInfo.cs
+C:\Users\Søren Højby\Google Drive\Skole\webdev\work\Web development\SchoolLibary\SchoolLibary\obj\Debug\netstandard2.0\SchoolLibary.dll
+C:\Users\Søren Højby\Google Drive\Skole\webdev\work\Web development\SchoolLibary\SchoolLibary\obj\Debug\netstandard2.0\SchoolLibary.pdb
+C:\Users\Søren Højby\Google Drive\Skole\webdev\work\Web development\SchoolLibary\SchoolLibary\bin\Debug\netstandard2.0\SchoolLibary.deps.json
+C:\Users\Søren Højby\Google Drive\Skole\webdev\work\Web development\SchoolLibary\SchoolLibary\bin\Debug\netstandard2.0\SchoolLibary.dll
+C:\Users\Søren Højby\Google Drive\Skole\webdev\work\Web development\SchoolLibary\SchoolLibary\bin\Debug\netstandard2.0\SchoolLibary.pdb

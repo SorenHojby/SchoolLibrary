@@ -1,0 +1,21 @@
+﻿@using SchoolLibrary;
+@{
+    Layout = "~/_SiteLayout.cshtml";
+    Page.Title = "Title goes here";
+    //Layout = "Your Layout Page goes here";
+    Student student = new Student();
+
+    student.Name = "John Doe";
+    student.Address = "Seeblachsgade 1";
+    student.Email = "johndoe@eal.dk";
+
+}
+
+<div>
+    <h1>@Page.Title.</h1>
+    <ul>
+        <li>@student.Name</li>
+        <li>@student.Address</li>
+        <li>@student.Email</li>
+    </ul>
+</div>
